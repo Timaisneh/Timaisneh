@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Timaisneh
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in ... Embedded Systems Programming
 - 🌱 I’m currently learning ... C and Micropython
 - 💞️ I’m looking to collaborate on ... Microcontrollers and automation projects
